@@ -95,7 +95,8 @@ Tools for creating, testing, and validating Schema.org markup, JSON-LD, and rich
 - [Rank Math Schema Generator](https://rankmath.com/tools/schema-generator/) - Generate JSON-LD schema markup for SEO use cases.
 - [Schema App](https://www.schemaapp.com/) - Structured data platform for creating and managing schema markup at scale.
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin with structured data and technical SEO features.
-- [Rank Math](https://rankmath.com/) - WordPress SEO plugin with schema, metadata, and technical SEO features.
+- [Rank Math](https://rankmath.com/) - WordPress SEO plugin with schema, metadata, and technical SEO features. 
+- [FrostRank](https://frostrank.com) - Free suite of SEO and developer tools — schema generators, meta tag builders, redirect checkers and more. No signup, most tools run 100% client-side.
 
 ---
 
